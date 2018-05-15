@@ -18,7 +18,7 @@ body {
 }
 
 
-#title-image, #gameover-image, #youwin-image{ 
+#title-image, #win-image, #lose-image{ 
     display: block;
     margin: 0 auto;
 }
@@ -27,6 +27,6 @@ body {
     letter-spacing: 10px;
 }
 
-#pressKeyTryAgain, 
-#gameover-image, 
-#youwin-image { display: none;}
+#tryAgain, 
+#lose-image, 
+#win-image { display: none;}
